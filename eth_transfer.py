@@ -42,13 +42,3 @@ if web3.isConnected():
 
     web3.eth.waitForTransactionReceipt(tx_hash)
     print('tx mined')
-
- 
-
-
-
- 
-
-    
-
-
